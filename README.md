@@ -1,4 +1,4 @@
-# z[Dillinger](https://github.com/joemccann/dillinger)
+# z[Dillinger](https://github.com/joemccann/dillinger) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 A markdown editor. Written in [Electron](https://github.com/atom/electron).
 
 
